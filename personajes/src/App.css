@@ -1,0 +1,14 @@
+.bg-body-tertiary{
+  background-color: red ;
+  display: flexbox;
+  border-radius: 5px;
+  padding: 0;
+}
+
+nav.NavBar{
+  padding: 18px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999;
+}
